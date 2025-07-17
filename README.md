@@ -1,38 +1,61 @@
-<h2 align="left"> 👋 Olá, eu sou Eugénio Prego!
-</h2>
+<h1 align="center">Olá 👋, eu sou o Eugénio</h1>
 
-###
+<p align="center">
+Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funcionais.
+</p>
 
-<hp align="left">Desenvolvedor Full-Stack apaixonado por criar soluções modernas e funcionais. 💻✨</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">🌐 LinkedIn</a> •
+  <a href="https://github.com/seu-usuario" target="_blank">🐱 GitHub</a> •
+  <a href="mailto:seu-email@email.com">📬 E-mail</a>
+</p>
 
-###
+---
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+## 🚀 Sobre Mim
 
-###
+🎯 Desenvolvedor web com foco em performance, usabilidade e código limpo.  
+💼 Experiência em desenvolvimento de sistemas, e-commerces e painéis administrativos.  
+📚 Estou sempre aprendendo novas tecnologias e boas práticas de desenvolvimento.  
+🌍 Atuando em projetos pessoais e como freelancer.
 
-<h2 align="left">🧰 Tecnologias que eu uso</h2>
+---
 
-###
+## 🧰 Tecnologias que eu uso
 
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-</div>
+</p>
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="langs" />
+</p>
+
+---
+
+## 🧩 Curiosidades
+
+- 🚀 Eu adoro transformar ideias em sistemas funcionais.
+- 🎓 Sempre estudando novas stacks e boas práticas.
+- 🤝 Aberto a colaborações, freelas e networking.
+
+---
+
+<p align="center">
+Feito com ❤️ por Eugénio Dumba Miguel Prego Prego
+</p>
+
 
 ###
