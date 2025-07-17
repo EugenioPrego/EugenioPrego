@@ -5,7 +5,7 @@ Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funciona
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">🌐 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/eugénio-prego-580149291/" target="_blank">🌐 LinkedIn</a> •
   <a href="https://github.com/seu-usuario" target="_blank">🐱 GitHub</a> •
   <a href="mailto:seu-email@email.com">📬 E-mail</a>
 </p>
