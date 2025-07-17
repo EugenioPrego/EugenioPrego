@@ -1,14 +1,9 @@
 <h2 align="left"> 👋 Olá, eu sou Eugénio Prego!
-Desenvolvedor Full-Stack apaixonado por criar soluções modernas e funcionais. 💻✨
 </h2>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
+<hp align="left">Desenvolvedor Full-Stack apaixonado por criar soluções modernas e funcionais. 💻✨</p>
 
 ###
 
