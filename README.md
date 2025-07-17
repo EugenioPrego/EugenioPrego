@@ -1,6 +1,6 @@
-<h1 align="left">Hey 👋 ## 👋 Olá, eu sou Eugénio Prego!
+<h2 align="left"> 👋 Olá, eu sou Eugénio Prego!
 Desenvolvedor Full-Stack apaixonado por criar soluções modernas e funcionais. 💻✨
-</h1>
+</h2>
 
 ###
 
@@ -23,7 +23,7 @@ Desenvolvedor Full-Stack apaixonado por criar soluções modernas e funcionais. 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
