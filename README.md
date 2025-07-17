@@ -6,8 +6,8 @@ Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funciona
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eugénio-prego-580149291/" target="_blank">🌐 LinkedIn</a> •
-  <a href="https://github.com/seu-usuario" target="_blank">🐱 GitHub</a> •
-  <a href="mailto:seu-email@email.com">📬 E-mail</a>
+  <a href="https://github.com/EugenioPrego" target="_blank">🐱 GitHub</a> •
+  <a href="mailto:eugenioprego10@gmail.com">📬 E-mail</a>
 </p>
 
 ---
@@ -26,6 +26,7 @@ Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funciona
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="css logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
