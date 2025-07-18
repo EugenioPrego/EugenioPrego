@@ -56,13 +56,6 @@ Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funciona
 - 🎓 Sempre estudando novas stacks e boas práticas.
 - 🤝 Aberto a colaborações, freelas e networking.
 
----
-
-<p align="center">
-Feito com ❤️ por Eugénio Dumba Miguel Prego
-</p>
-
----
 
 ## 📁 Meus Projetos
 
@@ -84,5 +77,12 @@ Aplicação web onde usuários podem preencher dados e gerar um currículo autom
 
 👉 Veja todos os meus repositórios públicos no [GitHub](https://github.com/EugenioPrego?tab=repositories)
 
+---
+
+<p align="center">
+Feito com ❤️ por Eugénio Dumba Miguel Prego
+</p>
+
+---
 
 ###
