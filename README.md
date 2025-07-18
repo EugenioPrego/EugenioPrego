@@ -62,5 +62,27 @@ Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funciona
 Feito com ❤️ por Eugénio Dumba Miguel Prego
 </p>
 
+---
+
+## 📁 Meus Projetos
+
+Aqui estão alguns dos projetos em que trabalhei — clique para ver mais detalhes:
+
+### 🌐 [Loja Virtual Mundo da Teresa](https://github.com/EugenioPrego/loja-mundo-da-teresa)
+Sistema completo de loja virtual com carrinho de compras, painel administrativo e finalização de pedidos com localStorage.
+
+### 📊 [Painel Administrativo](https://github.com/EugenioPrego/painel-administrativo)
+Painel para controle de clientes, produtos e pedidos com autenticação e layout responsivo.
+
+### 📋 [Sistema de Faturas PDF](https://github.com/EugenioPrego/sistema-faturas)
+Sistema para emissão de faturas com geração de PDF, controle de pagamentos e integração com Swal Fire.
+
+### 📝 [Gerador de Currículos Online](https://github.com/EugenioPrego/gerador-curriculos)
+Aplicação web onde usuários podem preencher dados e gerar um currículo automaticamente em PDF.
+
+---
+
+👉 Veja todos os meus repositórios públicos no [GitHub](https://github.com/EugenioPrego?tab=repositories)
+
 
 ###
