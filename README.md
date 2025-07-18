@@ -7,7 +7,7 @@ Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funciona
 <p align="center">
   <a href="https://www.linkedin.com/in/eugénio-prego-580149291/" target="_blank">🌐 LinkedIn</a> •
   <a href="https://github.com/EugenioPrego" target="_blank">🐱 GitHub</a> •
-  <a href="mailto:eugenioprego10@gmail.com">📬 E-mail</a>
+  <a href="mailto:eugenioprego10@gmail.com" target="_blank">📬 E-mail</a>
 </p>
 
 ---
@@ -40,8 +40,8 @@ Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funciona
 ## 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EugenioPrego&show_icons=true&theme=radical" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugenioPrego&layout=compact&theme=radical" alt="langs" />
 </p>
 
 ---
