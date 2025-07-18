@@ -5,6 +5,7 @@ Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funciona
 </p>
 
 <p align="center">
+  <h3>Contacta-me:</h3>
   <a href="https://www.linkedin.com/in/eugénio-prego-580149291/" target="_blank">🌐 LinkedIn</a> •
   <a href="https://github.com/EugenioPrego" target="_blank">🐱 GitHub</a> •
   <a href="mailto:eugenioprego10@gmail.com" target="_blank">📬 E-mail</a>
@@ -14,9 +15,9 @@ Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funciona
 
 ## 🚀 Sobre Mim
 
-🎯 Desenvolvedor web com foco em performance, usabilidade e código limpo.  
+🎯 Desenvolvedor Web Full-Stack com foco em performance, usabilidade e código limpo.  
 💼 Experiência em desenvolvimento de sistemas, e-commerces e painéis administrativos.  
-📚 Estou sempre aprendendo novas tecnologias e boas práticas de desenvolvimento.  
+📚 Estou sempre aprendendo novas tecnologias e boas práticas de Desenvolvimento.  
 🌍 Atuando em projetos pessoais e como freelancer.
 
 ---
@@ -55,7 +56,7 @@ Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funciona
 ---
 
 <p align="center">
-Feito com ❤️ por Eugénio Dumba Miguel Prego Prego
+Feito com ❤️ por Eugénio Dumba Miguel Prego
 </p>
 
 
