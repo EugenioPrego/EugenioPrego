@@ -61,7 +61,7 @@ Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funciona
 
 Aqui estão alguns dos projetos em que trabalhei — clique para ver mais detalhes:
 
-### 🌐👋 [Aposent Nest](https://github.com/EugenioPrego/AposentNest)(./images/demo.png)
+### 🌐👋 [Aposent Nest](https://github.com/EugenioPrego/AposentNest)
 Sistema de aposentadoria segura e acessível, desde os planos free, premium e plus. Os nossos usuários poderão planificar a sua aposentadoria.
 
 ---
