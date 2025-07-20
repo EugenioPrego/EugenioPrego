@@ -61,6 +61,8 @@ Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funciona
 
 Aqui estão alguns dos projetos em que trabalhei — clique para ver mais detalhes:
 
+### 
+
 ### 🌐 [Loja Virtual Mundo da Teresa](https://github.com/EugenioPrego/loja-mundo-da-teresa)
 Sistema completo de loja virtual com carrinho de compras, painel administrativo e finalização de pedidos com localStorage.
 
