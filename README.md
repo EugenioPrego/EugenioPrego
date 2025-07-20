@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou o Eugénio</h1>
+<h1 align="center">Olá 👋, eu sou Eugénio Prego</h1>
 
 <p align="center">
 Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funcionais.
