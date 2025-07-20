@@ -70,8 +70,7 @@ Painel para controle de clientes, produtos e pedidos com autenticação e layout
 ### 📋 [Sistema de Faturas PDF](https://github.com/EugenioPrego/sistema-faturas)
 Sistema para emissão de faturas com geração de PDF, controle de pagamentos e integração com Swal Fire.
 
-### 📝 [Gerador de Currículos Online](https://github.com/EugenioPrego/gerador-curriculos)
-Aplicação web onde usuários podem preencher dados e gerar um currículo automaticamente em PDF.
+
 
 ---
 
