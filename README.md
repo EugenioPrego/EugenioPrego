@@ -10,12 +10,15 @@ Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funciona
   <a href="https://www.linkedin.com/in/eugénio-prego-580149291/" target="_blank" title="LinkedIn">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
   </a>
+  
 <a href="https://github.com/EugenioPrego" target="_blank" title="GitHub">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" alt="GitHub"/>
 </a>
+
 <a href="mailto:eugenioprego10@gmail.com" target="_blank" title="E-mail">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail"/>
 </a>
+
 <a href="https://wa.me/244944590469" target="_blank" title="WhatsApp">
   <img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" width="30" alt="WhatsApp"/>
 </a>
@@ -34,19 +37,19 @@ Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funciona
 
 ---
 
-## 🧰 Tecnologias que eu uso
+🚀 Tecnologias Utilizadas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="css logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-</p>
+🎨 Front-end
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" /> </p>
+
+🛠️ Back-end
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" /> </p>
+
+🗃️ Banco de Dados
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" /> </p>
+
+🔧 Controle de Versão
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" /> </p>
 
 ---
 
