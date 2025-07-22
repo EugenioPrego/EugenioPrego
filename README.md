@@ -7,21 +7,14 @@ Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funciona
 <h3 align="center">📞 Contacta-me</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/eugénio-prego-580149291/" target="_blank" title="LinkedIn">
-  <i class="fab fa-linkedin fa-lg"></i>
-</a>&nbsp;|&nbsp;
-<a href="https://github.com/EugenioPrego" target="_blank" title="GitHub">
-  <i class="fab fa-github fa-lg"></i>
-</a>&nbsp;|&nbsp;
-<a href="mailto:eugenioprego10@gmail.com" target="_blank" title="E-mail">
-  <i class="fas fa-envelope fa-lg"></i>
-</a>&nbsp;|&nbsp;
-<a href="https://wa.me/244944590469" target="_blank" title="WhatsApp">
-  <i class="fab fa-whatsapp fa-lg"></i>
-</a>
-
-
+  <a href="https://www.linkedin.com/in/eugénio-prego-580149291/" target="_blank" title="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/EugenioPrego" target="_blank" title="GitHub">🐱 GitHub</a> &nbsp;|&nbsp;
+  <a href="mailto:eugenioprego10@gmail.com" target="_blank" title="E-mail">📧 E-mail</a> &nbsp;|&nbsp;
+  <a href="https://wa.me/244944590469" target="_blank" title="WhatsApp">💬 WhatsApp</a>
 </p>
+
 
 
 ---
