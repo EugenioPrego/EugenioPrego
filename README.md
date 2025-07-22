@@ -94,10 +94,11 @@ Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funciona
 
 Aqui estão alguns dos projetos em que trabalhei — clique para ver mais detalhes:
 
-### 🌐👋 [Aposent Nest](https://github.com/EugenioPrego/AposentNest)
+### ![Uploading image.png…]()
+ [Aposent Nest](https://github.com/EugenioPrego/AposentNest)
 Sistema de aposentadoria segura e acessível, desde os planos free, premium e plus. Os nossos usuários poderão planificar a sua aposentadoria.
 
-### 🌐 [Loja Virtual Mundo da Teresa]()
+### 🌐 [Loja Virtual Mundo da Teresa](https://github.com/EugenioPrego/Mundo_da_teresa)
 Sistema completo de loja virtual com carrinho de compras, painel administrativo, finalização de pedidos com localStorage e fatura de compra realizada.
 
 ---
