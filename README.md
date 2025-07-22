@@ -97,6 +97,9 @@ Aqui estão alguns dos projetos em que trabalhei — clique para ver mais detalh
 ### 🌐👋 [Aposent Nest](https://github.com/EugenioPrego/AposentNest)
 Sistema de aposentadoria segura e acessível, desde os planos free, premium e plus. Os nossos usuários poderão planificar a sua aposentadoria.
 
+### 🌐 [Loja Virtual Mundo da Teresa]()
+Sistema completo de loja virtual com carrinho de compras, painel administrativo, finalização de pedidos com localStorage e fatura de compra realizada.
+
 ---
 
 👉 Veja todos os meus repositórios públicos no [GitHub](https://github.com/EugenioPrego?tab=repositories)
