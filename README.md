@@ -37,22 +37,12 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Full--Stack%20Developer-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Full-Stack"/>
-      <br/> Formação Full-Stack  
-      <br/> <a href="LINK_DO_CERTIFICADO" target="_blank">📜 Ver Certificado</a>
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" alt="JS"/>
       <br/> Certificação em Node.js  
       <br/> <a href="https://assets.dio.me/W9niYP0omAnxD0ZjS-ma--nDmuwc_NhofM1yxReH7uU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9KV0pHOUNHRC5qcGc" target="_blank">📜 Ver Certificado</a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SQL%20Database-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL"/>
-      <br/> Certificação em Banco de Dados SQL  
-      <br/> <a href="LINK_DO_CERTIFICADO" target="_blank">📜 Ver Certificado</a>
-    </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Git%20%26%20GitHub-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
       <br/> Certificação em Git e GitHub  
@@ -68,22 +58,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EugenioPrego&show_icons=true&theme=radical" alt="stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugenioPrego&layout=compact&theme=radical" alt="langs"/>
-</p>
-
----
-
-## 🏆 Conquistas  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EugenioPrego&theme=radical&no-frame=true&margin-w=15" />
-</p>
-
----
-
-## 🐍 Contribuições  
-
-<p align="center">
-  <img src="https://github.com/EugenioPrego/EugenioPrego/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
