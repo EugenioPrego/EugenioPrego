@@ -1,6 +1,6 @@
 <!-- Animação digitando -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=30&color=FF5733&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Ol%C3%A1,+eu+sou+o+Eug%C3%A9nio+Prego;%F0%9F%92%BB+Desenvolvedor+Full+Stack;%F0%9F%9A%80+Apaixonado+por+Tecnologia" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?size=30&color=FF5733&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Ol%C3%A1,+eu+sou+Eug%C3%A9nio+Prego;%F0%9F%92%BB+Desenvolvedor+Full+Stack;%F0%9F%9A%80+Apaixonado+por+Tecnologia" alt="Typing Animation" />
 </p>
 
 
@@ -14,7 +14,7 @@
 
 ---
 
-<h1 align="center">👋 Olá, eu sou o Eugénio Prego</h1>
+<h1 align="center">👋 Olá, eu sou Eugénio Prego</h1>
 
 <p align="center">
   Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funcionais.
