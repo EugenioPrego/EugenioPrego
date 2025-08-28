@@ -40,13 +40,12 @@
 ---
 <h2 align="center">🚀 Tecnologias Utilizadas</h2>
 
-<!-- Tabela de Tecnologias -->
-<table>
+<table align="center">
   <tr>
-    <th style="text-align:center">🎨 Front-end</th>
-    <th style="text-align:center">🛠️ Back-end</th>
-    <th style="text-align:center">🗃️ Banco de Dados</th>
-    <th style="text-align:center">🔧 Controle de Versão</th>
+    <th align="center">🎨 Front-end</th>
+    <th align="center">🛠️ Back-end</th>
+    <th align="center">🗃️ Banco de Dados</th>
+    <th align="center">🔧 Controle de Versão</th>
   </tr>
   <tr>
     <td align="center">
