@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 Tecnologias Utilizadas  
+## 🚀 Tecnologias
 
 <p align="center">
   
