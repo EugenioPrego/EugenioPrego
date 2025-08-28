@@ -53,7 +53,7 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Git%20%26%20GitHub-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
       <br/> Certificação em Git e GitHub  
-      <br/> <a href="LINK_DO_CERTIFICADO" target="_blank">📜 Ver Certificado</a>
+      <br/> <a href="https://assets.dio.me/mVnU5uIqVtKnAHLZZfu-BZfqj0kCvYhYeE8F6b1cg2c/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9TTlZCWTVFMC5qcGc" target="_blank">📜 Ver Certificado</a>
     </td>
   </tr>
 </table>
