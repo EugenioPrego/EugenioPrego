@@ -11,7 +11,7 @@
 </p>
 
 ---
-## Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
 | 🎨 Front-end | 🛠️ Back-end | 🗃️ Banco de Dados | 🔧 Versionamento |
 |--------------|-------------|-------------------|-----------------|
@@ -42,10 +42,10 @@
       <br/> Certificação em Git e GitHub  
       <br/> <a href="https://assets.dio.me/mVnU5uIqVtKnAHLZZfu-BZfqj0kCvYhYeE8F6b1cg2c/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9TTlZCWTVFMC5qcGc" target="_blank">📜 Ver Certificado</a>
     </td>
-  </tr>
-    <a href="https://web.dio.me/certificates" target="_blank">
+        <a href="https://web.dio.me/certificates" target="_blank">
     📚 Ver todas as certificações na DIO
   </a>
+  </tr>
 </table>
 
 
