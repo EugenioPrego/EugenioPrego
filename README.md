@@ -30,6 +30,14 @@
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="mailto:eugenioprego10@gmail.com" target="_blank" title="E-mail">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/244944590469" target="_blank" title="WhatsApp">
+    <img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" width="30" alt="WhatsApp"/>
+  </a>
+</p>
 
 ---
 
@@ -94,12 +102,5 @@
 </p>
 
 ---
-  <a href="mailto:eugenioprego10@gmail.com" target="_blank" title="E-mail">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/244944590469" target="_blank" title="WhatsApp">
-    <img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" width="30" alt="WhatsApp"/>
-  </a>
-</p>
+
 
