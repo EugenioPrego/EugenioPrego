@@ -112,7 +112,7 @@
 </table>
 
 <p align="center">
-  <a href="https://web.dio.me/certificates" target="_blank">📚 Ver todas as certificações na DIO</a>
+  <a href="">📚 Ver todas as certificações na DIO</a>
 </p>
 
 ---
