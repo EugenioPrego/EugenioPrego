@@ -91,9 +91,7 @@
 ## 🎓 Certificações  
 
 <p align="center">
-  <a href="https://www.dio.me/" target="_blank">
     <img src="https://hermes.digitalinnovation.one/assets/diome/logo.png" width="120" alt="DIO Logo"/>
-  </a>
 </p>
 
 <table align="center">
