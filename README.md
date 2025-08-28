@@ -33,27 +33,39 @@
 📚 Estou sempre aprendendo novas tecnologias e boas práticas de Desenvolvimento.  
 🌍 Atuando em projetos pessoais e como freelancer.
 
-
 ## 🚀 Tecnologias Utilizadas  
 
-### 🎨 Front-end
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/> **HTML5**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/> **CSS3**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25"/> **JavaScript**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25"/> **Bootstrap**  
+### 🎨 Front-end  
+| Tecnologia | Logo |
+|------------|------|
+| **HTML5** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/> |
+| **CSS3** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/> |
+| **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> |
+| **Bootstrap** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"/> |
 
-### 🛠️ Back-end
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25"/> **PHP**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25"/> **Node.js**  
+---
 
-### 🗃️ Banco de Dados
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25"/> **MySQL**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="25"/> **SQLite**  
+### 🛠️ Back-end  
+| Tecnologia | Logo |
+|------------|------|
+| **PHP** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"/> |
+| **Node.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/> |
 
-### 🔧 Controle de Versão
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25"/> **Git**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25"/> **GitHub**  
+---
 
+### 🗃️ Banco de Dados  
+| Tecnologia | Logo |
+|------------|------|
+| **MySQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/> |
+| **SQLite** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30"/> |
+
+---
+
+### 🔧 Controle de Versão  
+| Tecnologia | Logo |
+|------------|------|
+| **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/> |
+| **GitHub** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/> |
 
 
 ## 📈 Estatísticas do GitHub
