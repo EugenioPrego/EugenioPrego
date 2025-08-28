@@ -19,6 +19,18 @@
   Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funcionais.
 </p>
 
+<h3 align="center">📞 Contacta-me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eugénio-prego-580149291/" target="_blank" title="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/EugenioPrego" target="_blank" title="GitHub">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
 ---
 
 ## 🚀 Tecnologias Utilizadas  
@@ -38,9 +50,8 @@
 
 ## 📂 Projetos  
 
-- 🔹 [Sistema de Loja Virtual](https://github.com/EugenioPrego/loja-virtual)  
-- 🔹 [Carrinho de Compras com LocalStorage](https://github.com/EugenioPrego/carrinho-localstorage)  
-- 🔹 [Painel Administrativo com Material Dashboard](https://github.com/EugenioPrego/dashboard-admin)  
+- 🔹 [Sistema de Loja Virtual](https://github.com/EugenioPrego/Mundo_da_teresa)  
+- 🔹 [Sistema de Aposentadoria](https://github.com/EugenioPrego/carrinho-localstorage)    
 
 👉 [Ver todos os projetos](https://github.com/EugenioPrego?tab=repositories)
 
@@ -83,18 +94,6 @@
 </p>
 
 ---
-
-<h3 align="center">📞 Contacta-me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eugénio-prego-580149291/" target="_blank" title="LinkedIn">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/EugenioPrego" target="_blank" title="GitHub">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:eugenioprego10@gmail.com" target="_blank" title="E-mail">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail"/>
   </a>
