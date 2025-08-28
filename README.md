@@ -23,6 +23,42 @@
 
 ---
 
+## 🎓 Certificações  
+
+<p align="center">
+  <a href="https://www.dio.me/" target="_blank">
+    <img src="https://hermes.digitalinnovation.one/assets/diome/logo.png" width="120" alt="DIO Logo"/>
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Full--Stack%20Developer-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Full-Stack"/>
+      <br/> Formação Full-Stack  
+      <br/> <a href="LINK_DO_CERTIFICADO" target="_blank">📜 Ver Certificado</a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript%20Developer-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"/>
+      <br/> Certificação em JavaScript  
+      <br/> <a href="LINK_DO_CERTIFICADO" target="_blank">📜 Ver Certificado</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SQL%20Database-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL"/>
+      <br/> Certificação em Banco de Dados SQL  
+      <br/> <a href="LINK_DO_CERTIFICADO" target="_blank">📜 Ver Certificado</a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git%20%26%20GitHub-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+      <br/> Certificação em Git e GitHub  
+      <br/> <a href="LINK_DO_CERTIFICADO" target="_blank">📜 Ver Certificado</a>
+    </td>
+  </tr>
+</table>
+
+
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
