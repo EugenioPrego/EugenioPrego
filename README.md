@@ -112,7 +112,7 @@
 </table>
 
 <p align="center">
-  <a href="">📚 Ver todas as certificações na DIO</a>
+  <a href="https://www.linkedin.com/in/eug%C3%A9nio-prego-580149291/details/certifications/">📚 Ver todas as certificações na DIO</a>
 </p>
 
 ---
