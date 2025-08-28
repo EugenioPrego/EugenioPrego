@@ -3,7 +3,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FF5733&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+o+Eugénio+Prego;💻+Desenvolvedor+Full+Stack;🚀+Apaixonado+por+Tecnologia" alt="Typing Animation" />
 </p>
 
-<!-- Apresentação -->
+<!-- Badges de status -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-FF5733?style=for-the-badge&logo=readme&logoColor=white" alt="Learning"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Work"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/From-Angola-FF0000?style=for-the-badge&logo=google-earth&logoColor=white" alt="Angola"/>
+</p>
+
+---
+
 <h1 align="center">👋 Olá, eu sou o Eugénio Prego</h1>
 
 <p align="center">
@@ -11,8 +20,11 @@
 </p>
 
 ---
-## 🚀 Tecnologias Utilizadas
 
+## 🚀 Tecnologias Utilizadas  
+
+<p align="center">
+  
 | 🎨 Front-end | 🛠️ Back-end | 🗃️ Banco de Dados | 🔧 Versionamento |
 |--------------|-------------|-------------------|-----------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/> PHP | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/> Git |
@@ -20,6 +32,19 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> JavaScript | — | — | — |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/> Bootstrap | — | — | — |
 
+</p>
+
+---
+
+## 📂 Projetos  
+
+- 🔹 [Sistema de Loja Virtual](https://github.com/EugenioPrego/loja-virtual)  
+- 🔹 [Carrinho de Compras com LocalStorage](https://github.com/EugenioPrego/carrinho-localstorage)  
+- 🔹 [Painel Administrativo com Material Dashboard](https://github.com/EugenioPrego/dashboard-admin)  
+
+👉 [Ver todos os projetos](https://github.com/EugenioPrego?tab=repositories)
+
+---
 
 ## 🎓 Certificações  
 
@@ -28,6 +53,7 @@
     <img src="https://hermes.digitalinnovation.one/assets/diome/logo.png" width="120" alt="DIO Logo"/>
   </a>
 </p>
+
 <table align="center">
   <tr>
     <td align="center">
@@ -35,19 +61,19 @@
       <br/> Certificação em Node.js  
       <br/> <a href="https://assets.dio.me/W9niYP0omAnxD0ZjS-ma--nDmuwc_NhofM1yxReH7uU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9KV0pHOUNHRC5qcGc" target="_blank">📜 Ver Certificado</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Git%20%26%20GitHub-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
       <br/> Certificação em Git e GitHub  
       <br/> <a href="https://assets.dio.me/mVnU5uIqVtKnAHLZZfu-BZfqj0kCvYhYeE8F6b1cg2c/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9TTlZCWTVFMC5qcGc" target="_blank">📜 Ver Certificado</a>
     </td>
-        <a href="https://web.dio.me/certificates" target="_blank">
-    📚 Ver todas as certificações na DIO
-  </a>
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://web.dio.me/certificates" target="_blank">📚 Ver todas as certificações na DIO</a>
+</p>
+
+---
 
 ## 📊 Estatísticas do GitHub  
 
