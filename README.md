@@ -1,7 +1,8 @@
 <!-- Animação digitando -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=30&color=FF5733&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+o+Eugénio+Prego;💻+Desenvolvedor+Full+Stack;🚀+Apaixonado+por+Tecnologia" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?size=30&color=FF5733&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Ol%C3%A1,+eu+sou+o+Eug%C3%A9nio+Prego;%F0%9F%92%BB+Desenvolvedor+Full+Stack;%F0%9F%9A%80+Apaixonado+por+Tecnologia" alt="Typing Animation" />
 </p>
+
 
 <!-- Badges de status -->
 <p align="center">
