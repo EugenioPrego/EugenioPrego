@@ -11,6 +11,7 @@
 </p>
 
 ---
+## Tecnologias Utilizadas
 
 | 🎨 Front-end | 🛠️ Back-end | 🗃️ Banco de Dados | 🔧 Versionamento |
 |--------------|-------------|-------------------|-----------------|
@@ -23,14 +24,10 @@
 ## 🎓 Certificações  
 
 <p align="center">
-    <a href="https://web.dio.me/certificates" target="_blank">
-    📚 Ver todas as certificações na DIO
-  </a>
   <a href="https://www.dio.me/" target="_blank">
     <img src="https://hermes.digitalinnovation.one/assets/diome/logo.png" width="120" alt="DIO Logo"/>
   </a>
 </p>
-
 <table align="center">
   <tr>
     <td align="center">
@@ -46,7 +43,9 @@
       <br/> <a href="https://assets.dio.me/mVnU5uIqVtKnAHLZZfu-BZfqj0kCvYhYeE8F6b1cg2c/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9TTlZCWTVFMC5qcGc" target="_blank">📜 Ver Certificado</a>
     </td>
   </tr>
-
+    <a href="https://web.dio.me/certificates" target="_blank">
+    📚 Ver todas as certificações na DIO
+  </a>
 </table>
 
 
