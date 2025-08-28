@@ -24,10 +24,6 @@
   </a>
 </p>
 
-
-
-
-
 ---
 
 ## 🚀 Sobre Mim
@@ -40,7 +36,6 @@
 
 ## 🚀 Tecnologias Utilizadas  
 
-## 🚀 Tecnologias Utilizadas  
 
 | 🎨 Front-end | 🛠️ Back-end | 🗃️ Banco de Dados | 🔧 Controle de Versão |
 |-------------|-------------|------------------|----------------------|
@@ -60,10 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>  
 </p> |
-
-
-
-
 
 ---
 
