@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, eu sou Eugénio Prego</h1>
+<h1 align="center">👋 Olá, eu sou o Eugénio Prego</h1>
 
 <p align="center">
-Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funcionais.
+  Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funcionais.
 </p>
 
 <h3 align="center">📞 Contacta-me</h3>
@@ -9,20 +9,21 @@ Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funciona
 <p align="center">
   <a href="https://www.linkedin.com/in/eugénio-prego-580149291/" target="_blank" title="LinkedIn">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/EugenioPrego" target="_blank" title="GitHub">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" alt="GitHub"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:eugenioprego10@gmail.com" target="_blank" title="E-mail">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/244944590469" target="_blank" title="WhatsApp">
     <img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" width="30" alt="WhatsApp"/>
   </a>
 </p>
+
 
 
 
