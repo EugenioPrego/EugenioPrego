@@ -76,7 +76,7 @@
     <td>—</td>
   </tr>
   <tr>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/> TypeScript
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/> TypeScript</td>
     <td>—</td>
     <td>—</td>
     <td>—</td>
