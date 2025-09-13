@@ -46,21 +46,25 @@
     <th>🛠️ Back-end</th>
     <th>🗃️ Banco de Dados</th>
     <th>🔧 Versionamento</th>
+    <th>📱 Mobile</th>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> HTML5</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/> PHP</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> MySQL</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/> Git</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> React Native</td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> CSS3</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/> Node.js</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/> SQLite</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40"/> GitHub</td>
+    <td>—</td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> JavaScript</td>
+    <td>—</td>
     <td>—</td>
     <td>—</td>
     <td>—</td>
@@ -70,9 +74,11 @@
     <td>—</td>
     <td>—</td>
     <td>—</td>
+    <td>—</td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/> TypeScript</td>
+    <td>—</td>
     <td>—</td>
     <td>—</td>
     <td>—</td>
