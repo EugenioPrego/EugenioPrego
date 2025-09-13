@@ -27,10 +27,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/EugenioPrego" target="_blank" title="GitHub">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:eugenioprego10@gmail.com" target="_blank" title="E-mail">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail"/>
   </a>
